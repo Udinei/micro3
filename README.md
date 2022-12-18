@@ -153,3 +153,42 @@ do aplication REST.
 **Implementações visual**
 - Não tem, somente pagina de links para metricas do microprofile.
 - Swagger UI para documentação da API do microprofile REST
+
+
+
+# Referências
+
+### Opções de Design
+Organização de Pacotes: Links úteis de discussão sobre o assunto:  
+● https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-pa ckage-by-layered-feature-e59921a4dffa    
+● https://dzone.com/articles/package-by-feature-is-demanded    
+● https://dzone.com/articles/package-your-classes-feature
+
+
+Transferência de dados Links:  
+● https://refactoring.guru/introduce-parameter-object  
+● https://deviq.com/value-object/  
+● https://mrhaki.blogspot.com/2009/10/groovy-goodness-expando-asdynamic-bean.html  
+● https://fernandofranzini.wordpress.com/2013/02/28/generics-item-2  
+● http://wavelino.coffeecup.com/pdf/EffectiveJava.pdf
+
+Arquitetura:  
+http://tutorials.jenkov.com/software-architecture/client-server-architecture.htm
+
+Clássica 3-tier application architecture.   
+http://tutorials.jenkov.com/software-architecture/n-tier-architecture.html
+
+Responsive Web Design - RWD.
+https://brasil.uxdesign.cc/o-que-%C3%A9-responsive-web-design-ab292eb616b7
+
+Microserviços:
+https://www.redhat.com/pt-br/topics/microservices/what-are-microservices
+
+Thin client
+https://pt.wikipedia.org/wiki/Thin_client
+
+MVC Thin cliente side
+https://guidefreitas.github.io/programming/2015/07/17/aplicacoes-mvc-client-side.html
+
+Aplicativos Hibridos com Ionic
+https://medium.com/trainingcenter/aplicativos-h%C3%ADbridos-vil%C3%B5es-ou-mocinhos-b22276f523c0
